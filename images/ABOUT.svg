@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 27">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.1em;
+        opacity: 0.75;
+      }
+    </style>
+  </defs>
+  <text id="ABOUT" class="cls-1" transform="translate(36 22)"><tspan x="-35.831" y="0">ABOUT</tspan></text>
+</svg>

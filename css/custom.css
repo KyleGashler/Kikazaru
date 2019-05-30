@@ -1,0 +1,100 @@
+.btnonoff{
+    margin-left: auto; 
+    margin-right: auto;
+    width: 112px;
+    height: 40px;
+    margin-top: 42px;
+}
+
+.ankor{
+    color: #707070;
+    margin-right: 6px;
+    float: right;
+    width: 24px;
+    height: 24px;
+    margin-top: 4px;
+}
+.ankor2{
+    color: #707070;
+    float: left;
+    margin-left: 6px;
+    width: 24px;
+    height: 24px;
+    margin-top: 4px;
+}
+.kikahead{
+    fill: #F51D0A;
+    background-color: #F51D0A;
+    border: #707070;
+    box-shadow: 16%;
+    width: 100%;
+    height: 56px;
+    padding-top: 12px;
+}
+
+.soundonoff{
+    width: 112px;
+    height: 113px;
+    margin-top: 32px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+.kikatitle{
+    margin-left: auto; 
+    margin-right: auto;
+    text-align: justify;
+    height: 25px;
+    width: 160px;
+}
+body{
+    min-width: 192px;
+    min-height: 314px;
+}
+a{
+    color: #707070;
+}
+.about{
+    font-family:  Source Sans Pro;
+    margin-left: auto; 
+    text-align: center;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 76px;
+    height: 20px;
+    opacity: 75%;
+    font-size: 20px;
+}
+.chunk{
+    font-family: Source Sans Pro;
+    text-align: left;
+    margin-left: 16px; 
+    margin-right: 16px;
+    margin-top: 24px;
+    margin-bottom: 0px;
+    width: 160px;
+    height: 128px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.email{
+    font-family: Source Sans Pro;
+    margin-left: 16px; 
+    margin-right: 36px;
+    color: #F51D0A;
+    margin-top: 6px;
+    font-size: 12px;
+    width: 140px;
+    height: 16px;
+}
+.copyright{
+    font-family:Source Sans Pro;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+    opacity: .38;
+    font-size: 10px;
+    width: 140px;
+    height: 10px;
+}

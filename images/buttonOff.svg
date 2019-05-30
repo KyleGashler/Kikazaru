@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 114 44">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.25;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_23);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f7f7f7"/>
+    </linearGradient>
+    <filter id="Rectangle_23" x="0" y="0" width="84" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_31" data-name="Group 31" transform="translate(-1031 -2699)">
+    <g id="Group_30" data-name="Group 30">
+      <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-1" width="112" height="40" rx="8" transform="translate(1033 2699)"/>
+    </g>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 1031, 2699)">
+      <rect id="Rectangle_23-2" data-name="Rectangle 23" class="cls-2" width="72" height="32" rx="4" transform="translate(6 4)"/>
+    </g>
+  </g>
+</svg>

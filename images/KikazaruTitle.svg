@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 24.518">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.96;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_19" data-name="Group 19" class="cls-1" transform="translate(-30.484 -4.82)">
+    <path id="Path_7" data-name="Path 7" class="cls-2" d="M140.94,20.936l-5.981-.636-7.084,10.944V20.3H122.7V44.012h5.175V32.644l8.059,11.792,5.854-1.145-8.823-11.5Z" transform="translate(-92.216 -15.098)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-2" width="5.175" height="23.712" transform="translate(52.372 5.202)"/>
+    <path id="Path_8" data-name="Path 8" class="cls-2" d="M215.5,20.936l-5.981-.636-7.041,10.944V20.3H197.3V44.012h5.175V32.644l8.017,11.792,5.854-1.145-8.78-11.5Z" transform="translate(-135.172 -15.098)"/>
+    <path id="Path_9" data-name="Path 9" class="cls-2" d="M252.9,20.194l-7.8,23.415h5.472l1.188-4.454h7.423l1.315,4.751,5.642-.594L258.207,19.6Zm-.085,15.1,2.587-9.586,2.672,9.586Z" transform="translate(-162.696 -14.695)"/>
+    <path id="Path_10" data-name="Path 10" class="cls-2" d="M316.44,24.881l-.806-4.581H300.067v4.581h9.968L299.6,39.43l.976,4.581h16.076l.466-4.581H305.963Z" transform="translate(-194.079 -15.098)"/>
+    <path id="Path_11" data-name="Path 11" class="cls-2" d="M353.5,20.194l-7.8,23.415h5.472l1.188-4.454h7.466l1.315,4.751,5.642-.594L358.85,19.6Zm-.042,15.1,2.587-9.586,2.672,9.586Z" transform="translate(-220.624 -14.695)"/>
+    <path id="Path_12" data-name="Path 12" class="cls-2" d="M420.215,27.841c0-6.448-4.454-8.441-10.1-8.441a35.6,35.6,0,0,0-7.72.933v23.16h5.175V35.646h3.69l4.284,8.271,5.684-.721-5.175-8.441C418.519,33.695,420.215,31.531,420.215,27.841Zm-9.077,3.9h-3.563V24.278a13.007,13.007,0,0,1,2.842-.339c2.587,0,4.581.976,4.581,3.945A3.488,3.488,0,0,1,411.138,31.744Z" transform="translate(-253.273 -14.58)"/>
+    <path id="Path_13" data-name="Path 13" class="cls-2" d="M468.149,20.3V32.135c0,5.09-.891,7.72-4.624,7.72s-4.751-2.63-4.751-7.72V20.3H453.6V32.135c0,8.356,2.757,12.259,9.841,12.259,7,0,9.8-3.9,9.8-12.259V20.3Z" transform="translate(-282.755 -15.098)"/>
+  </g>
+</svg>
