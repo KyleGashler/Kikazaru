@@ -1,29 +1,41 @@
 {
-    "manifest_version": 2,
-    "name": "Kikazaru",
-    "description": "....",
-    "version": "1.0",
-    "browser_action" : {
-        "default_title": "KIKAZARU",
-        "default_icon":"/images/iconLG.png",
-        "default_popup":"/html/popup.html"
-    },
-    "content_scripts": [
-        {
-          "run_at": "document_idle",
-          "js": ["/js/jquery-3.3.1.js","/js/contentScript.js"],
-          "all_frames": true,
-          "matches": [
-            "<all_urls>"
-          ],
-          "exclude_matches": ["*://uvu.instructure.com/*","https://system.netsuite.com/*","https://system.na2.netsuite.com/*"]
-        }
+  "manifest_version": 2,
+  "name": "Kikazaru",
+  "description": "....",
+  "version": "1.0",
+  "browser_action": {
+    "default_title": "KIKAZARU",
+    "default_icon": "/images/iconLG.png",
+    "default_popup": "/html/popup.html"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_idle",
+      "js": [
+        "/js/jquery-3.3.1.js",
+        "/js/contentScript.js"
       ],
-    "permissions" :[
-        "tabs",
-        "storage",
-        "activeTab", 
-        "http://*/*",
-        "https://*/*"
-    ]
+      "all_frames": true,
+      "matches": [
+        "<all_urls>"
+      ],
+      "exclude_matches": [
+        "*://uvu.instructure.com/*",
+        "https://system.netsuite.com/*",
+        "https://system.na2.netsuite.com/*"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "/images/Icon.svg",
+    "48": "/images/Icon.svg",
+    "128": "/images/iconLG.png"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "activeTab",
+    "http://*/*",
+    "https://*/*"
+  ]
 }
